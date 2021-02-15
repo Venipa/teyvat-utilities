@@ -1,5 +1,17 @@
 <template>
   <div class="flex-col">
+    <div
+      class="-mt-6 mb-6 bg-gray-800 text-gray-400 border-b border-gray-700 shadow-inner"
+    >
+      <div class="container px-2">
+        <div class="h-12 flex flex-row items-center justify-start gap-x-4">
+          <nuxt-link class="btn-icon" to="/">
+            <ArrowLeftIcon />
+          </nuxt-link>
+          Back
+        </div>
+      </div>
+    </div>
     <div class="container pb-6 px-6 md:px-2">
       <div class="flex flex-col">
         <template v-if="weapons && weapons.length > 0">
@@ -23,9 +35,13 @@
 
 <script lang="ts">
 import Vue from 'vue'
+// @ts-ignore
+import ArrowLeftIcon from '~/assets/icons/arrow-left.svg?inline'
 
 export default Vue.extend({
-  components: {},
+  components: {
+    ArrowLeftIcon
+  },
   async asyncData({ $content }) {
     const weapons = await $content('weapons')
       .fetch()

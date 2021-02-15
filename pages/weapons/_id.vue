@@ -6,7 +6,7 @@
     >
       <div class="container px-2">
         <div class="h-12 flex flex-row items-center justify-start gap-x-4">
-          <nuxt-link class="btn-icon" to="/">
+          <nuxt-link class="btn-icon" to="/weapons">
             <ArrowLeftIcon />
           </nuxt-link>
           Back
