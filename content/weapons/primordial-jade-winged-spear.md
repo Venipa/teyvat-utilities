@@ -33,11 +33,11 @@ stats:
       secondary: 22.1%
 
 ---
-#### Description
+## Description
 
 _A jade polearm made by the archons, capable of slaying ancient beasts._
 
-#### Lore
+## Lore
 
 At Liyue's foundation, monsters and gods still ruled the seas.
 
