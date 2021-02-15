@@ -107,3 +107,5 @@ fields:
       - type: text
         name: secondary
         label: secondary
+pages:
+- content/primordial-jade-winged-spear.md
