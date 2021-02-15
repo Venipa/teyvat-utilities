@@ -13,7 +13,7 @@ sections:
   templates:
   - primordial-jade-winged-spear
 upload_dir: uploads
-public_path: "/images"
+public_path: ".netlify/large-media"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
