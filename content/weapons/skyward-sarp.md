@@ -5,34 +5,36 @@ category: Bow
 series: Mondstadt Series
 rarity: 5
 source: Gacha
-description: A greatbow that symbolizes Dvalin's affiliation with the Anemo Archon. The sound of the bow firing is music to the Anemo Archon's ears. It contains the power of the sky and wind within.
-imageUrl: /images/weapons/Weapon_Skyward_Harp.png
+description: A greatbow that symbolizes Dvalin's affiliation with the Anemo Archon.
+  The sound of the bow firing is music to the Anemo Archon's ears. It contains the
+  power of the sky and wind within.
+imageUrl: "/images/weapon_skyward_harp-2.png"
 secondaryLabel: Crit. Chance
 stats:
   level:
-    20:
+    '20':
       attack: 133
       secondary: 8.5%
-    40:
+    '40':
       attack: 261
       secondary: 12.4%
-    50:
+    '50':
       attack: 341
       secondary: 14.3%
-    60:
+    '60':
       attack: 423
       secondary: 16.2%
-    70:
+    '70':
       attack: 506
       secondary: 18.2%
-    80:
+    '80':
       attack: 590
       secondary: 20.1%
-    90:
+    '90':
       attack: 674
       secondary: 22.1%
----
 
+---
 Description
 -----------
 
