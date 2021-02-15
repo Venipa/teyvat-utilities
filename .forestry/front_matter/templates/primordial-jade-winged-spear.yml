@@ -1,0 +1,109 @@
+---
+label: Primordial Jade Winged-Spear
+hide_body: false
+fields:
+- type: text
+  name: id
+  label: id
+- type: text
+  name: name
+  label: name
+- type: text
+  name: category
+  label: category
+- type: text
+  name: series
+  label: series
+- type: number
+  name: rarity
+  label: rarity
+- type: text
+  name: source
+  label: source
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: imageUrl
+  label: imageUrl
+- type: text
+  name: secondaryLabel
+  label: secondaryLabel
+- type: field_group
+  name: stats
+  label: stats
+  fields:
+  - type: field_group
+    name: level
+    label: level
+    fields:
+    - type: field_group
+      name: '20'
+      label: '20'
+      fields:
+      - type: number
+        name: attack
+        label: attack
+      - type: text
+        name: secondary
+        label: secondary
+    - type: field_group
+      name: '40'
+      label: '40'
+      fields:
+      - type: number
+        name: attack
+        label: attack
+      - type: text
+        name: secondary
+        label: secondary
+    - type: field_group
+      name: '50'
+      label: '50'
+      fields:
+      - type: number
+        name: attack
+        label: attack
+      - type: text
+        name: secondary
+        label: secondary
+    - type: field_group
+      name: '60'
+      label: '60'
+      fields:
+      - type: number
+        name: attack
+        label: attack
+      - type: text
+        name: secondary
+        label: secondary
+    - type: field_group
+      name: '70'
+      label: '70'
+      fields:
+      - type: number
+        name: attack
+        label: attack
+      - type: text
+        name: secondary
+        label: secondary
+    - type: field_group
+      name: '80'
+      label: '80'
+      fields:
+      - type: number
+        name: attack
+        label: attack
+      - type: text
+        name: secondary
+        label: secondary
+    - type: field_group
+      name: '90'
+      label: '90'
+      fields:
+      - type: number
+        name: attack
+        label: attack
+      - type: text
+        name: secondary
+        label: secondary
