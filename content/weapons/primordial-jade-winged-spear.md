@@ -6,7 +6,7 @@ series: Primordial Jade Series
 rarity: 5
 source: Gacha
 description: A jade polearm made by the archons, capable of slaying ancient beasts.
-imageUrl: https://teyvat.venipa.net/storage/uploads/weapon_primordial_jade_winged-spear.png
+imageUrl: "/images/weapon_primordial_jade_winged-spear-2.png"
 secondaryLabel: Crit. Chance
 stats:
   level:
