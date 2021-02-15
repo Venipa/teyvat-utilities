@@ -5,10 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content
+  path: content/weapons
   label: Weapons
   create: documents
-  match: weapons/*.md
+  match: "*.md"
   new_doc_ext: md
 upload_dir: ".uploads"
 public_path: https://teyvat.venipa.net/storage/uploads
