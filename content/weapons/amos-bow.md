@@ -5,34 +5,37 @@ category: Bow
 series: Mondstadt Series
 rarity: 5
 source: Gacha
-description: An extremely ancient bow that has retained its power despite its original master being long gone. It draws power from everyone and everything in the world, and the further away you are from that which your heart desires, the more powerful it is.
-imageUrl: /images/weapons/Weapon_Amos'_Bow.png
+description: An extremely ancient bow that has retained its power despite its original
+  master being long gone. It draws power from everyone and everything in the world,
+  and the further away you are from that which your heart desires, the more powerful
+  it is.
+imageUrl: "/images/weapon_amos-_bow-1.png"
 secondaryLabel: Attack
 stats:
   level:
-    20:
+    '20':
       attack: 122
       secondary: 19.1%
-    40:
+    '40':
       attack: 235
       secondary: 27.8%
-    50:
+    '50':
       attack: 308
       secondary: 32.2%
-    60:
+    '60':
       attack: 382
       secondary: 36.5%
-    70:
+    '70':
       attack: 457
       secondary: 40.9%
-    80:
+    '80':
       attack: 532
       secondary: 45.3%
-    90:
+    '90':
       attack: 608
       secondary: 49.6%
----
 
+---
 Description
 -----------
 
@@ -56,4 +59,3 @@ It was the era when the [Tyrant of the North Wind](https://genshin-impact.fandom
 "Finally, I shall hold his gaze."
 
 But it was not until the moment when her arrow flew toward him, and when the piercing wind was about to rip her asunder, that she finally realized their distance apart.
-
