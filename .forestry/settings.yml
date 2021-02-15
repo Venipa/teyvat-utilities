@@ -12,10 +12,10 @@ sections:
   new_doc_ext: md
   templates:
   - primordial-jade-winged-spear
-upload_dir: ".uploads"
-public_path: https://teyvat.venipa.net/storage/uploads
+upload_dir: ".netlify/large-media"
+public_path: https://teyvat.venipa.net/.netlify/large-media
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_output_directory: dist
