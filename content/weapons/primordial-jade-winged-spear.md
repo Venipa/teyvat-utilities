@@ -1,7 +1,7 @@
 ---
 id: 1a70d109-c2d3-49f1-a973-6fb685e55216
 name: Primordial Jade Winged-Spear
-category: bow
+category: spear
 series: Primordial Jade Series
 rarity: 5
 source: Gacha
